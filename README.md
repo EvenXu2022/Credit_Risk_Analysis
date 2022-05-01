@@ -15,7 +15,7 @@ Involves randomly selecting examples from the minority class, with replacement, 
 Accurate Score: 66%
 High Risk Precision: 1%
 Recall: 71%
-<img src="images/Random Oversampling.png">
+<img src="images/Randam Oversampling.png">
 
 - SMOTE Oversampling Model:
 Increases the size of the minority class by creating new values based on the value of the closest neighbors to the minority class instead of random selection. The classified records are finally equal with 51366 records to both low risk and high risk.
